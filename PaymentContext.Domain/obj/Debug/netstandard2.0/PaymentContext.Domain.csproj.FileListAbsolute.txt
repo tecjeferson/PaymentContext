@@ -1,0 +1,12 @@
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\jefbg\Documents\projetos\ASPNET Projects\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete

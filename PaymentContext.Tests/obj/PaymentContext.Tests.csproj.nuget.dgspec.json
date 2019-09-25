@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectName": "PaymentContext.Domain",
+        "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\jefbg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jefbg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectName": "PaymentContext.Shared",
+        "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "packagesPath": "C:\\Users\\jefbg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jefbg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectName": "PaymentContext.Tests",
+        "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "packagesPath": "C:\\Users\\jefbg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jefbg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+              },
+              "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\Users\\jefbg\\Documents\\projetos\\ASPNET Projects\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -22,6 +22,21 @@ namespace PaymentContext.Domain.Entities
         public bool Active { get; private set; }
         public IReadOnlyCollection<Payment> Payments { get; private set; }
 
-        public void addPayment()
+        public void addPayment(Payment payment)
+        {
+            _payments.Add(payment);
+        }
+        public void Activate()
+        {
+            Active = true;
+            LastUpdateDate = DateTime.Now;
+
+        }
+        public void Inactivate()
+        {
+            Active = false;
+            LastUpdateDate = DateTime.Now;
+
+        }
     }
 }

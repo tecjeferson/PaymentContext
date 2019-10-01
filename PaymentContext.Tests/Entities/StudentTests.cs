@@ -9,7 +9,7 @@ namespace StudentTests
         [TestMethod]
         public void AdicionarAssinatura()
         {
-            var subscription = new Subscription();
+            var subscription = new Subscription(null);
             var student = new Student("Ryan", "Vieira de Vargas", "222916014", "ryan@gmail.com");
             student.AddSubscription(subscription);
         }
